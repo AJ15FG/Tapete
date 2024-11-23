@@ -1,0 +1,14 @@
+C:\Users\CC1_PC10\Downloads\COSTO TAPETE\COSTO TAPETE\bin\Debug\COSTO TAPETE.exe
+C:\Users\CC1_PC10\Downloads\COSTO TAPETE\COSTO TAPETE\bin\Debug\COSTO TAPETE.pdb
+C:\Users\CC1_PC10\Downloads\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO TAPETE.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC10\Downloads\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO_TAPETE.MainForm.resources
+C:\Users\CC1_PC10\Downloads\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO TAPETE.csproj.GenerateResource.Cache
+C:\Users\CC1_PC10\Downloads\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO TAPETE.exe
+C:\Users\CC1_PC10\Downloads\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO TAPETE.pdb
+C:\Users\America\Documents\SharpDevelop Projects\COSTO TAPETE\COSTO TAPETE\bin\Debug\COSTO TAPETE.exe
+C:\Users\America\Documents\SharpDevelop Projects\COSTO TAPETE\COSTO TAPETE\bin\Debug\COSTO TAPETE.pdb
+C:\Users\America\Documents\SharpDevelop Projects\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO TAPETE.csprojResolveAssemblyReference.cache
+C:\Users\America\Documents\SharpDevelop Projects\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO_TAPETE.MainForm.resources
+C:\Users\America\Documents\SharpDevelop Projects\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO TAPETE.csproj.GenerateResource.Cache
+C:\Users\America\Documents\SharpDevelop Projects\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO TAPETE.exe
+C:\Users\America\Documents\SharpDevelop Projects\COSTO TAPETE\COSTO TAPETE\obj\Debug\COSTO TAPETE.pdb
